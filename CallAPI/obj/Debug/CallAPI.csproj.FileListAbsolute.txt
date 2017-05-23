@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\bin\Debug\CallAPI.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\bin\Debug\CallAPI.exe
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\bin\Debug\CallAPI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\obj\Debug\CallAPI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\obj\Debug\CallAPI.exe
+c:\users\admin\documents\visual studio 2015\Projects\CallAPI\CallAPI\obj\Debug\CallAPI.pdb
