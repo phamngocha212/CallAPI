@@ -8,5 +8,6 @@ namespace CallAPI
 {
     class test2
     {
+        string abc = "abc";
     }
 }
