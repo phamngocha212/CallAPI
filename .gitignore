@@ -1,6 +1,6 @@
 # SGBBC local config file #
 
-/CallAPI/bin/
-/CallAPI/obj/
 bin/
 obj/
+*.suo
+*.user
