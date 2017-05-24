@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace CallAPI
 {
-    class test2
+    class Class1
     {
-        string abc = "abc";
-        string abc2 = "abc";
     }
 }
