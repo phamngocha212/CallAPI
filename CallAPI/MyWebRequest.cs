@@ -10,6 +10,8 @@ public class MyWebRequest
 
     private string status;
 
+    private string uid = null; 
+
     public String Status
     {
         get
