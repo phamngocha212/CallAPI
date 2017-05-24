@@ -13,6 +13,7 @@ public class MyWebRequest
     private string uid = null;
     private string token2 = null;
     private string token3 = null;
+    private string token4 = null;
 
     public String Status
     {
