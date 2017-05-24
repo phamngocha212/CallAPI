@@ -4,3 +4,7 @@ bin/
 obj/
 *.suo
 *.user
+**/obj/
+**/bin/
+**/debug/
+**/release/
