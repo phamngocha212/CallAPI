@@ -1,4 +1,4 @@
 # SGBBC local config file #
 
-CallAPI\bin\Debug
-CallAPI\obj\Debug
+CallAPI/bin/Debug/
+CallAPI/obj/Debug/

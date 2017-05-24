@@ -10,3 +10,6 @@ C:\HocTap\git\CallAPI\hapn212\CallAPI\bin\Debug\CallAPI.pdb
 C:\HocTap\git\CallAPI\hapn212\CallAPI\obj\Debug\CallAPI.csprojResolveAssemblyReference.cache
 C:\HocTap\git\CallAPI\hapn212\CallAPI\obj\Debug\CallAPI.exe
 C:\HocTap\git\CallAPI\hapn212\CallAPI\obj\Debug\CallAPI.pdb
+C:\HocTap\git\CallAPI\hapn213\CallAPI\bin\Debug\CallAPI.exe.config
+C:\HocTap\git\CallAPI\hapn213\CallAPI\obj\Debug\CallAPI.exe
+C:\HocTap\git\CallAPI\hapn213\CallAPI\obj\Debug\CallAPI.pdb
