@@ -11,7 +11,8 @@ public class MyWebRequest
     private string status;
 
     private string uid = null;
-    private string token2 = null; 
+    private string token2 = null;
+    private string token3 = null;
 
     public String Status
     {
