@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace CallAPI
 {
-    public class Test1
+    class Class2
     {
-        private string userId = null;
-        private string userId2 = null;
     }
 }
